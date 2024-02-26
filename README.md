@@ -1,2 +1,2 @@
-# AI-Website-FaceDetection
+# AI Website Face Detection
 An AI Face Detection Website
